@@ -44,9 +44,9 @@ If everything is set up _correctly_, you should see your new app running in your
 
 # Different Screens
 <div style="display:grid; grid-template-cols= 1fr 1fr;">
-<img src="https://github.com/Anish-bhardwaj/ReactNativeShoppingApp/blob/main/screenshots/screen1.png"/>
-<img src="https://github.com/Anish-bhardwaj/ReactNativeShoppingApp/blob/main/screenshots/screen2.png"/>
-<img src="https://github.com/Anish-bhardwaj/ReactNativeShoppingApp/blob/main/screenshots/screen3.png"/>
-<img src="https://github.com/Anish-bhardwaj/ReactNativeShoppingApp/blob/main/screenshots/screen4.png"/>
-<img src="https://github.com/Anish-bhardwaj/ReactNativeShoppingApp/blob/main/screenshots/screen5.png"/>
+<img src="https://github.com/Anish-bhardwaj/ReactNativeShoppingApp/blob/main/screenshots/screen1.png" height="200"/>
+<img src="https://github.com/Anish-bhardwaj/ReactNativeShoppingApp/blob/main/screenshots/screen2.png" height="200"/>
+<img src="https://github.com/Anish-bhardwaj/ReactNativeShoppingApp/blob/main/screenshots/screen3.png" height="200"/>
+<img src="https://github.com/Anish-bhardwaj/ReactNativeShoppingApp/blob/main/screenshots/screen4.png" height="200"/>
+<img src="https://github.com/Anish-bhardwaj/ReactNativeShoppingApp/blob/main/screenshots/screen5.png" height="200"/>
 </div>
